@@ -26,6 +26,6 @@ Please install these using the Arduino Library Manager before using this library
 ## 🛠️ Installation
 
 1️⃣ Download this repository as a ZIP:  
-[Download ZIP](https://github.com/YourUsername/FirebaseHandler/archive/refs/heads/main.zip)
+[Download ZIP](https://github.com/ATIYANPAN/ESP32_FirebaseHandler/archive/refs/heads/main.zip)
 
 2️⃣ Extract and move the `FirebaseHandler` folder to your:
